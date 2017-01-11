@@ -1,0 +1,6 @@
+c:\users\jeong\documents\visual studio 2015\Projects\Economics\Economics\bin\Debug\Economics.exe.config
+c:\users\jeong\documents\visual studio 2015\Projects\Economics\Economics\bin\Debug\Economics.exe
+c:\users\jeong\documents\visual studio 2015\Projects\Economics\Economics\bin\Debug\Economics.pdb
+c:\users\jeong\documents\visual studio 2015\Projects\Economics\Economics\obj\Debug\Economics.csprojResolveAssemblyReference.cache
+c:\users\jeong\documents\visual studio 2015\Projects\Economics\Economics\obj\Debug\Economics.exe
+c:\users\jeong\documents\visual studio 2015\Projects\Economics\Economics\obj\Debug\Economics.pdb
